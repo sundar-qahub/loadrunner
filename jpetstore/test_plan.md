@@ -165,7 +165,7 @@ The following are the detailed steps in each scenarios
  e) Click "Sign Out" link
 ```
 
-**NOTE**: After each page load, the page need to be asserted in the Jmeter script
+**NOTE**: After each page load, the page need to be asserted in the loadrunner script
 
 ## Test approach
 Each Scenario will take 60 seconds to ramp up and maintain a steady state for 3600 seconds (1 hour)
@@ -220,5 +220,5 @@ The following are the test data used for the test
 ## Metrics Monitored
 - Throughput
 - Response time (Min/Max/Avg)
-- 90%, 95% and 99% response time percentiles
+- 90% reponse time percentiles
 - Error rate
