@@ -1,0 +1,43 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "09_LoginAndLogout_01_Launch",
+                "rawStartTime": 1782817801610,
+                "rawEndTime": 1782817802591,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00103759765625
+            },
+            {
+                "transactionName": "09_LoginAndLogout_02_EnterTheStore",
+                "rawStartTime": 1782817808669,
+                "rawEndTime": 1782817809304,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0004169940948486328
+            },
+            {
+                "transactionName": "09_LoginAndLogout_03_ClickSignIn",
+                "rawStartTime": 1782817815402,
+                "rawEndTime": 1782817815590,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00005745887756347656
+            },
+            {
+                "transactionName": "09_LoginAndLogout_04_ClickLogin",
+                "rawStartTime": 1782817821670,
+                "rawEndTime": 1782817822152,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0000667572021484375
+            },
+            {
+                "transactionName": "09_LoginAndLogout_05_SignOut",
+                "rawStartTime": 1782817828217,
+                "rawEndTime": 1782817828560,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000029325485229492188
+            }
+        ]
+    }
+]

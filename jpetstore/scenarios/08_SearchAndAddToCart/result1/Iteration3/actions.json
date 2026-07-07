@@ -1,0 +1,64 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "08_SearchAndAddToCart_01_Launch",
+                "rawStartTime": 1782817512884,
+                "rawEndTime": 1782817513958,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0013480186462402344
+            },
+            {
+                "transactionName": "08_SearchAndAddToCart_02_EnterTheStore",
+                "rawStartTime": 1782817520049,
+                "rawEndTime": 1782817520721,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0004968643188476563
+            },
+            {
+                "transactionName": "08_SearchAndAddToCart_03_ClickSignIn",
+                "rawStartTime": 1782817526827,
+                "rawEndTime": 1782817527030,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0000762939453125
+            },
+            {
+                "transactionName": "08_SearchAndAddToCart_04_ClickLogin",
+                "rawStartTime": 1782817533125,
+                "rawEndTime": 1782817533640,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00007271766662597656
+            },
+            {
+                "transactionName": "08_SearchAndAddToCart_05_EnterProductInSearchBox",
+                "rawStartTime": 1782817539710,
+                "rawEndTime": 1782817540289,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00006866455078125
+            },
+            {
+                "transactionName": "08_SearchAndAddToCart_06_SelectProductFromSearchResult",
+                "rawStartTime": 1782817546365,
+                "rawEndTime": 1782817546568,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000036716461181640625
+            },
+            {
+                "transactionName": "08_SearchAndAddToCart_07_AddPetitemToCart",
+                "rawStartTime": 1782817552650,
+                "rawEndTime": 1782817552854,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00006580352783203125
+            },
+            {
+                "transactionName": "08_SearchAndAddToCart_08_SignOut",
+                "rawStartTime": 1782817558922,
+                "rawEndTime": 1782817559268,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000027894973754882813
+            }
+        ]
+    }
+]

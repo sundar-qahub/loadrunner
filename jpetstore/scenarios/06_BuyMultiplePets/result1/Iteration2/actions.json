@@ -1,0 +1,127 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "06_BuyMultiplePets_01_Launch",
+                "rawStartTime": 1782816664430,
+                "rawEndTime": 1782816665427,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0016171932220458985
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_02_EnterTheStore",
+                "rawStartTime": 1782816668514,
+                "rawEndTime": 1782816669167,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0004134178161621094
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_03_ClickSignIn",
+                "rawStartTime": 1782816672269,
+                "rawEndTime": 1782816672468,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00007104873657226563
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_04_ClickLogin",
+                "rawStartTime": 1782816675543,
+                "rawEndTime": 1782816676039,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000021219253540039063
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_05_ClickPet1",
+                "rawStartTime": 1782816679114,
+                "rawEndTime": 1782816679301,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000020503997802734375
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_06_SelectPet1Product",
+                "rawStartTime": 1782816682371,
+                "rawEndTime": 1782816682575,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023603439331054688
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_07_ClickAddToCartPet1Item",
+                "rawStartTime": 1782816685652,
+                "rawEndTime": 1782816685857,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00005698204040527344
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_08_UpdateRandomQuantityAndUpdateCart",
+                "rawStartTime": 1782816688929,
+                "rawEndTime": 1782816689275,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023365020751953125
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_09_ReturnToMainMenu",
+                "rawStartTime": 1782816692336,
+                "rawEndTime": 1782816692540,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000026702880859375
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_10_SelectPet2",
+                "rawStartTime": 1782816695611,
+                "rawEndTime": 1782816695813,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000016689300537109375
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_11_SelectPet2Product",
+                "rawStartTime": 1782816698884,
+                "rawEndTime": 1782816699086,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000019788742065429688
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_12_AddToCartPet2Item",
+                "rawStartTime": 1782816702165,
+                "rawEndTime": 1782816702367,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00006723403930664063
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_13_UpdateRandomQuanityPet2ItemAndUpdateCart",
+                "rawStartTime": 1782816705439,
+                "rawEndTime": 1782816705781,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000049114227294921875
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_14_ProceedToCheckOut",
+                "rawStartTime": 1782816709031,
+                "rawEndTime": 1782816709233,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0002923011779785156
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_15_EnterPaymentDetailsAndContinue",
+                "rawStartTime": 1782816712301,
+                "rawEndTime": 1782816712645,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023365020751953125
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_16_ConfirmTheOrder",
+                "rawStartTime": 1782816715719,
+                "rawEndTime": 1782816715920,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00003743171691894531
+            },
+            {
+                "transactionName": "06_BuyMultiplePets_17_SignOut",
+                "rawStartTime": 1782816718986,
+                "rawEndTime": 1782816719326,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000022411346435546875
+            }
+        ]
+    }
+]

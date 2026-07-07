@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\gauth\loadrunner\jpetstore\scenarios\08_SearchAndAddToCart
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\gauth\loadrunner\jpetstore\scenarios\08_searchandaddtocart\\logfile.log
+c:\users\gauth\loadrunner\jpetstore\scenarios\08_searchandaddtocart\\combined_08_SearchAndAddToCart.c
+c:\users\gauth\loadrunner\jpetstore\scenarios\08_searchandaddtocart\\pre_cci.c

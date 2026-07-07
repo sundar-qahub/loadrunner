@@ -1,0 +1,92 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "05_BuyDogs_01_Launch",
+                "rawStartTime": 1782816177400,
+                "rawEndTime": 1782816178395,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0013675689697265626
+            },
+            {
+                "transactionName": "05_BuyDogs_02_ClickEnterTheStore",
+                "rawStartTime": 1782816182485,
+                "rawEndTime": 1782816183144,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0004048347473144531
+            },
+            {
+                "transactionName": "05_BuyDogs_03_ClickSignIn",
+                "rawStartTime": 1782816187245,
+                "rawEndTime": 1782816187437,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0000820159912109375
+            },
+            {
+                "transactionName": "05_BuyDogs_04_ClickLogin",
+                "rawStartTime": 1782816191506,
+                "rawEndTime": 1782816191987,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000026226043701171875
+            },
+            {
+                "transactionName": "05_BuyDogs_05_ClickPetDogs",
+                "rawStartTime": 1782816196064,
+                "rawEndTime": 1782816196258,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023603439331054688
+            },
+            {
+                "transactionName": "05_BuyDogs_06_SelectPetProduct",
+                "rawStartTime": 1782816200333,
+                "rawEndTime": 1782816200527,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023603439331054688
+            },
+            {
+                "transactionName": "05_BuyDogs_07_AddToCartPetitem",
+                "rawStartTime": 1782816204617,
+                "rawEndTime": 1782816204809,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00006842613220214844
+            },
+            {
+                "transactionName": "05_BuyDogs_08_updateRandomQuantityAndUpdateCart",
+                "rawStartTime": 1782816208882,
+                "rawEndTime": 1782816209333,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00002288818359375
+            },
+            {
+                "transactionName": "05_BuyDogs_09_ClickProceedToCheckOut",
+                "rawStartTime": 1782816213582,
+                "rawEndTime": 1782816213790,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0002770423889160156
+            },
+            {
+                "transactionName": "05_BuyDogs_10_EnterPaymentAndContinue",
+                "rawStartTime": 1782816217870,
+                "rawEndTime": 1782816218208,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00002574920654296875
+            },
+            {
+                "transactionName": "05_BuyDogs_11_ConfirmOrder",
+                "rawStartTime": 1782816222288,
+                "rawEndTime": 1782816222496,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000026702880859375
+            },
+            {
+                "transactionName": "05_BuyDogs_12_ClickSignout",
+                "rawStartTime": 1782816226560,
+                "rawEndTime": 1782816226911,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000028133392333984375
+            }
+        ]
+    }
+]

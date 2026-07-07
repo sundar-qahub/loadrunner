@@ -1,0 +1,92 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "03_BuyReptiles_01_Launch",
+                "rawStartTime": 1782814874967,
+                "rawEndTime": 1782814876653,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0015285015106201172
+            },
+            {
+                "transactionName": "03_BuyReptiles_02_ClickEnterTheStore",
+                "rawStartTime": 1782814880731,
+                "rawEndTime": 1782814882231,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0004439353942871094
+            },
+            {
+                "transactionName": "03_BuyReptiles_03_ClickSignIn",
+                "rawStartTime": 1782814886333,
+                "rawEndTime": 1782814886630,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00007081031799316406
+            },
+            {
+                "transactionName": "03_BuyReptiles_04_ClickLogin",
+                "rawStartTime": 1782814890707,
+                "rawEndTime": 1782814891785,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000026702880859375
+            },
+            {
+                "transactionName": "03_BuyReptiles_05_ClickPetReptiles",
+                "rawStartTime": 1782814895854,
+                "rawEndTime": 1782814896135,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000019311904907226563
+            },
+            {
+                "transactionName": "03_BuyReptiles_06_SelectPetProduct",
+                "rawStartTime": 1782814900202,
+                "rawEndTime": 1782814900405,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000021696090698242188
+            },
+            {
+                "transactionName": "03_BuyReptiles_07_AddToCartPetitem",
+                "rawStartTime": 1782814904485,
+                "rawEndTime": 1782814904673,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00006604194641113281
+            },
+            {
+                "transactionName": "03_BuyReptiles_08_updateRandomQuantityAndUpdateCart",
+                "rawStartTime": 1782814908743,
+                "rawEndTime": 1782814909103,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00002193450927734375
+            },
+            {
+                "transactionName": "03_BuyReptiles_09_ClickProceedToCheckOut",
+                "rawStartTime": 1782814913352,
+                "rawEndTime": 1782814913584,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000377655029296875
+            },
+            {
+                "transactionName": "03_BuyReptiles_10_EnterPaymentAndContinue",
+                "rawStartTime": 1782814917654,
+                "rawEndTime": 1782814917995,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000028848648071289063
+            },
+            {
+                "transactionName": "03_BuyReptiles_11_ConfirmOrder",
+                "rawStartTime": 1782814922059,
+                "rawEndTime": 1782814922261,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000020503997802734375
+            },
+            {
+                "transactionName": "03_BuyReptiles_12_ClickSignout",
+                "rawStartTime": 1782814926337,
+                "rawEndTime": 1782814926680,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00002574920654296875
+            }
+        ]
+    }
+]

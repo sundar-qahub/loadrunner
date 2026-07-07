@@ -1,0 +1,92 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "02_BuyCats_01_Launch",
+                "rawStartTime": 1782814173012,
+                "rawEndTime": 1782814173994,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0013175010681152344
+            },
+            {
+                "transactionName": "02_BuyCats_02_ClickEnterTheStore",
+                "rawStartTime": 1782814178077,
+                "rawEndTime": 1782814178718,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0004019737243652344
+            },
+            {
+                "transactionName": "02_BuyCats_03_ClickSignIn",
+                "rawStartTime": 1782814182816,
+                "rawEndTime": 1782814183004,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00007152557373046875
+            },
+            {
+                "transactionName": "02_BuyCats_04_ClickLogin",
+                "rawStartTime": 1782814187073,
+                "rawEndTime": 1782814187556,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000027418136596679688
+            },
+            {
+                "transactionName": "02_BuyCats_05_ClickPetCats",
+                "rawStartTime": 1782814191623,
+                "rawEndTime": 1782814191827,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000020265579223632813
+            },
+            {
+                "transactionName": "02_BuyCats_06_SelectPetProduct",
+                "rawStartTime": 1782814195893,
+                "rawEndTime": 1782814196096,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023365020751953125
+            },
+            {
+                "transactionName": "02_BuyCats_07_AddToCartPetitem",
+                "rawStartTime": 1782814200187,
+                "rawEndTime": 1782814200388,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00005340576171875
+            },
+            {
+                "transactionName": "02_BuyCats_08_updateRandomQuantityAndUpdateCart",
+                "rawStartTime": 1782814204458,
+                "rawEndTime": 1782814204833,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023365020751953125
+            },
+            {
+                "transactionName": "02_BuyCats_09_ClickProceedToCheckOut",
+                "rawStartTime": 1782814209074,
+                "rawEndTime": 1782814209274,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00029468536376953125
+            },
+            {
+                "transactionName": "02_BuyCats_10_EnterPaymentAndContinue",
+                "rawStartTime": 1782814213342,
+                "rawEndTime": 1782814213685,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000017881393432617188
+            },
+            {
+                "transactionName": "02_BuyCats_11_ConfirmOrder",
+                "rawStartTime": 1782814217752,
+                "rawEndTime": 1782814217971,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000026941299438476563
+            },
+            {
+                "transactionName": "02_BuyCats_12_ClickSignout",
+                "rawStartTime": 1782814222034,
+                "rawEndTime": 1782814222377,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000028133392333984375
+            }
+        ]
+    }
+]

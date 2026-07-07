@@ -1,0 +1,9 @@
+HTTP/1.1 200 
+Date: Mon, 29 Jun 2026 11:00:54 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 4736
+Connection: keep-alive
+Set-Cookie: JSESSIONID=8DBF9B4275DB15A1439A27B5A0AEB185; Path=/; HttpOnly
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+

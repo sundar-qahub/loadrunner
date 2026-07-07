@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\gauth\loadrunner\jpetstore\scenarios\09_LoginAndLogout
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\gauth\loadrunner\jpetstore\scenarios\09_loginandlogout\\logfile.log
+c:\users\gauth\loadrunner\jpetstore\scenarios\09_loginandlogout\\combined_09_LoginAndLogout.c
+c:\users\gauth\loadrunner\jpetstore\scenarios\09_loginandlogout\\pre_cci.c

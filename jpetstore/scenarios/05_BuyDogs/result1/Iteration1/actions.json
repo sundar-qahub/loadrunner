@@ -1,0 +1,92 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "05_BuyDogs_01_Launch",
+                "rawStartTime": 1782816123541,
+                "rawEndTime": 1782816124610,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0020813941955566408
+            },
+            {
+                "transactionName": "05_BuyDogs_02_ClickEnterTheStore",
+                "rawStartTime": 1782816128709,
+                "rawEndTime": 1782816129384,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00038933753967285156
+            },
+            {
+                "transactionName": "05_BuyDogs_03_ClickSignIn",
+                "rawStartTime": 1782816133492,
+                "rawEndTime": 1782816133700,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0000934600830078125
+            },
+            {
+                "transactionName": "05_BuyDogs_04_ClickLogin",
+                "rawStartTime": 1782816137777,
+                "rawEndTime": 1782816138322,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000026226043701171875
+            },
+            {
+                "transactionName": "05_BuyDogs_05_ClickPetDogs",
+                "rawStartTime": 1782816142398,
+                "rawEndTime": 1782816142607,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023365020751953125
+            },
+            {
+                "transactionName": "05_BuyDogs_06_SelectPetProduct",
+                "rawStartTime": 1782816146682,
+                "rawEndTime": 1782816146890,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023126602172851563
+            },
+            {
+                "transactionName": "05_BuyDogs_07_AddToCartPetitem",
+                "rawStartTime": 1782816150981,
+                "rawEndTime": 1782816151188,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0000629425048828125
+            },
+            {
+                "transactionName": "05_BuyDogs_08_updateRandomQuantityAndUpdateCart",
+                "rawStartTime": 1782816155266,
+                "rawEndTime": 1782816155634,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023126602172851563
+            },
+            {
+                "transactionName": "05_BuyDogs_09_ClickProceedToCheckOut",
+                "rawStartTime": 1782816159887,
+                "rawEndTime": 1782816160094,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0002930164337158203
+            },
+            {
+                "transactionName": "05_BuyDogs_10_EnterPaymentAndContinue",
+                "rawStartTime": 1782816164173,
+                "rawEndTime": 1782816164544,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000024557113647460938
+            },
+            {
+                "transactionName": "05_BuyDogs_11_ConfirmOrder",
+                "rawStartTime": 1782816168614,
+                "rawEndTime": 1782816168823,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000026226043701171875
+            },
+            {
+                "transactionName": "05_BuyDogs_12_ClickSignout",
+                "rawStartTime": 1782816172902,
+                "rawEndTime": 1782816173271,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000029087066650390625
+            }
+        ]
+    }
+]

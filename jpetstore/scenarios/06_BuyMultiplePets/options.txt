@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\gauth\loadrunner\jpetstore\scenarios\06_BuyMultiplePets
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\gauth\loadrunner\jpetstore\scenarios\06_buymultiplepets\\logfile.log
+c:\users\gauth\loadrunner\jpetstore\scenarios\06_buymultiplepets\\combined_06_BuyMultiplePets.c
+c:\users\gauth\loadrunner\jpetstore\scenarios\06_buymultiplepets\\pre_cci.c

@@ -1,0 +1,73 @@
+[General]
+Type=Multi
+DefaultCfg=default.cfg
+ParameterFile=02_BuyCats.prm
+GlobalParameterFile=
+NewFunctionHeader=1
+RunType=cci
+ActionLogicExt=action_logic
+LastActiveAction=Action
+MajorVersion=2022
+MinorVersion=0
+ActiveTypes=QTWeb
+GenerateTypes=QTWeb
+AdditionalTypes=QTWeb
+DevelopTool=Vugen
+LastModifyVer=2022.0.0.0
+DFERebrandFlag=Done
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+LastCodeGenerationVer=2022.0.0.0
+DisableRegenerate=0
+Encoding=ANSI
+Description=
+ScriptLocale=en-US
+[Actions]
+vuser_init=vuser_init.c
+Action=Action.c
+vuser_end=vuser_end.c
+[RunLogicFiles]
+Default Profile=default.usp
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[Modified Actions]
+vuser_init=0
+Action=1
+vuser_end=0
+[Recorded Actions]
+vuser_init=0
+Action=1
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Interpreters]
+vuser_init=cci
+Action=cci
+vuser_end=cci
+[TransactionsOrder]
+Order="02_BuyCats_01_Launch__*delimiter*__02_BuyCats_02_ClickEnterTheStore__*delimiter*__02_BuyCats_03_ClickSignIn__*delimiter*__02_BuyCats_04_ClickLogin__*delimiter*__02_BuyCats_05_ClickPetCats__*delimiter*__02_BuyCats_06_SelectPetProduct__*delimiter*__02_BuyCats_07_AddToCartPetitem__*delimiter*__02_BuyCats_08_updateRandomQuantityAndUpdateCart__*delimiter*__02_BuyCats_09_ClickProceedToCheckOut__*delimiter*__02_BuyCats_10_EnterPaymentAndContinue__*delimiter*__02_BuyCats_11_ConfirmOrder__*delimiter*__02_BuyCats_12_ClickSignout"
+[StateManagement]
+LastReplayStatus=1
+[ActiveReplay]
+LastReplayedRunName=result1
+ActiveRunName=result1
+[Transactions]
+02_BuyCats_01_Launch=
+02_BuyCats_02_ClickEnterTheStore=
+02_BuyCats_03_ClickSignIn=
+02_BuyCats_04_ClickLogin=
+02_BuyCats_05_ClickPetCats=
+02_BuyCats_06_SelectPetProduct=
+02_BuyCats_07_AddToCartPetitem=
+02_BuyCats_08_updateRandomQuantityAndUpdateCart=
+02_BuyCats_09_ClickProceedToCheckOut=
+02_BuyCats_10_EnterPaymentAndContinue=
+02_BuyCats_11_ConfirmOrder=
+02_BuyCats_12_ClickSignout=
