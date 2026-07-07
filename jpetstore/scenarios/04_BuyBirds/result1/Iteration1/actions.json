@@ -1,0 +1,92 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "04_BuyBirds_01_Launch",
+                "rawStartTime": 1782815417681,
+                "rawEndTime": 1782815418837,
+                "thinkTime": 0.0,
+                "wastedTime": 0.001556396484375
+            },
+            {
+                "transactionName": "04_BuyBirds_02_ClickEnterTheStore",
+                "rawStartTime": 1782815422942,
+                "rawEndTime": 1782815423765,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0004222393035888672
+            },
+            {
+                "transactionName": "04_BuyBirds_03_ClickSignIn",
+                "rawStartTime": 1782815427878,
+                "rawEndTime": 1782815428087,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00006246566772460938
+            },
+            {
+                "transactionName": "04_BuyBirds_04_ClickLogin",
+                "rawStartTime": 1782815432158,
+                "rawEndTime": 1782815432721,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000026702880859375
+            },
+            {
+                "transactionName": "04_BuyBirds_05_ClickPetBirds",
+                "rawStartTime": 1782815436794,
+                "rawEndTime": 1782815437017,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000021457672119140625
+            },
+            {
+                "transactionName": "04_BuyBirds_06_SelectPetProduct",
+                "rawStartTime": 1782815441094,
+                "rawEndTime": 1782815441334,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000021219253540039063
+            },
+            {
+                "transactionName": "04_BuyBirds_07_AddToCartPetitem",
+                "rawStartTime": 1782815445427,
+                "rawEndTime": 1782815445636,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00005817413330078125
+            },
+            {
+                "transactionName": "04_BuyBirds_08_updateRandomQuantityAndUpdateCart",
+                "rawStartTime": 1782815449712,
+                "rawEndTime": 1782815450080,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023126602172851563
+            },
+            {
+                "transactionName": "04_BuyBirds_09_ClickProceedToCheckOut",
+                "rawStartTime": 1782815454332,
+                "rawEndTime": 1782815454525,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0002894401550292969
+            },
+            {
+                "transactionName": "04_BuyBirds_10_EnterPaymentAndContinue",
+                "rawStartTime": 1782815458600,
+                "rawEndTime": 1782815458986,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000023603439331054688
+            },
+            {
+                "transactionName": "04_BuyBirds_11_ConfirmOrder",
+                "rawStartTime": 1782815463048,
+                "rawEndTime": 1782815463258,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00002574920654296875
+            },
+            {
+                "transactionName": "04_BuyBirds_12_ClickSignout",
+                "rawStartTime": 1782815467329,
+                "rawEndTime": 1782815467954,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000030517578125
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+username,password,firstname,lastname,email,phone,address,city,state,zip,language,favCategoryID
+perfuser01,perfuser@01,perf,user,perfuser01@gmail.com,4706203379,123 joe street,NewYork,NY,87653,english,FISH
+perfuser02,perfuser@02,perf,user,perfuser02@gmail.com,4243426223,456 john street,NewYork,NY,81243,english,DOGS
+perfuser03,perfuser@03,perf,user,perfuser03@gmail.com,4083486442,723 salem street,NewYork,NY,86789,english,REPTILES
+perfuser04,perfuser@04,perf,user,perfuser04@gmail.com,3396271347,873 doe street,NewYork,NY,89854,english,BIRDS
+perfuser05,perfuser@05,perf,user,perfuser05@gmail.com,3234797498,9568 joe street,NewYork,NY,82154,english,CATS
+perfuser06,perfuser@06,perf,user,perfuser06@gmail.com,5673006607,1456 john street,NewYork,NY,89653,english,FISH
+perfuser07,perfuser@07,perf,user,perfuser07@gmail.com,7862716978,235 salem street,NewYork,NY,75412,english,DOGS
+perfuser08,perfuser@08,perf,user,perfuser08@gmail.com,9726810918,3 doe street,NewYork,NY,98514,english,FISH
+perfuser09,perfuser@09,perf,user,perfuser09@gmail.com,4845083003,1 joe street,NewYork,NY,65841,english,BIRDS
+perfuser11,perfuser@11,perf,user,perfuser11@gmail.com,9734778030,523 joe street,NewYork,NY,78956,english,FISH
+perfuser12,perfuser@12,perf,user,perfuser12@gmail.com,4842723520,62 salem street,NewYork,NY,58964,english,DOGS
+perfuser13,perfuser@13,perf,user,perfuser13@gmail.com,5137238457,798 doe street,NewYork,NY,87653,english,REPTILES
+perfuser14,perfuser@14,perf,user,perfuser14@gmail.com,3233094488,7 john street,NewYork,NY,83453,english,BIRDS
+perfuser15,perfuser@15,perf,user,perfuser15@gmail.com,4045685947,9876 salem street,NewYork,NY,97653,english,DOGS
+perfuser16,perfuser@16,perf,user,perfuser16@gmail.com,9415411128,8756 family street,NewYork,NY,67653,english,FISH
+perfuser17,perfuser@17,perf,user,perfuser17@gmail.com,7149732255,985 main street,NewYork,NY,85647,english,DOGS
+perfuser18,perfuser@18,perf,user,perfuser18@gmail.com,5102105118,875 third street,NewYork,NY,84553,english,CATS
+perfuser19,perfuser@19,perf,user,perfuser19@gmail.com,9417186761,24 oak street,NewYork,NY,81353,english,FISH
+perfuser20,perfuser@20,perf,user,perfuser20@gmail.com,3217008052,9875 fouth street,NewYork,NY,78653,english,FISH
+perfuser21,perfuser@21,perf,user,perfuser21@gmail.com,7795522726,58 Elm street,NewYork,NY,98653,english,BIRDS
+perfuser22,perfuser@22,perf,user,perfuser22@gmail.com,7136314071,6 Pine street,NewYork,NY,67653,english,FISH
+perfuser23,perfuser@23,perf,user,perfuser23@gmail.com,9414680217,2587 Maple street,NewYork,NY,57653,english,CATS
+perfuser24,perfuser@24,perf,user,perfuser24@gmail.com,5618496736,69 Washington street,NewYork,NY,95653,english,FISH
+perfuser25,perfuser@25,perf,user,perfuser25@gmail.com,8183624433,8975 Elm street,NewYork,NY,87956,english,FISH
+perfuser26,perfuser@26,perf,user,perfuser26@gmail.com,3108221036,5894 Pine street,NewYork,NY,98526,english,DOGS
+perfuser27,perfuser@27,perf,user,perfuser27@gmail.com,9173173720,758 Licoln street,NewYork,NY,65874,english,FISH
+perfuser28,perfuser@28,perf,user,perfuser28@gmail.com,5109531222,96 Park street,NewYork,NY,77653,english,CATS
+perfuser29,perfuser@29,perf,user,perfuser29@gmail.com,9153475785,9857 Elm street,NewYork,NY,98653,english,FISH
+perfuser30,perfuser@30,perf,user,perfuser30@gmail.com,4806203379,56 Oak street,NewYork,NY,87653,english,FISH
+perfuser31,perfuser@31,perf,user,perfuser10@gmail.com,4806203379,56 Oak street,NewYork,NY,87653,english,FISH
+
+
+
+
+
+
+
+

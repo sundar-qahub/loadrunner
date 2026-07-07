@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\gauth\loadrunner\jpetstore\scenarios\05_BuyDogs
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\gauth\loadrunner\jpetstore\scenarios\05_buydogs\\logfile.log
+c:\users\gauth\loadrunner\jpetstore\scenarios\05_buydogs\\combined_05_BuyDogs.c
+c:\users\gauth\loadrunner\jpetstore\scenarios\05_buydogs\\pre_cci.c

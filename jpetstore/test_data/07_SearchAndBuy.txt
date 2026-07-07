@@ -1,0 +1,29 @@
+ProductID,ProductName,ItemID
+FI-SW-01,Angelfish,EST-1
+FI-SW-01,Angelfish,EST-2
+FI-SW-02,Tiger Shark,EST-3
+FI-FW-01,Koi,EST-3
+FI-FW-01,Koi,EST-5
+FI-FW-02,Goldfish,EST-20
+FI-FW-02,Goldfish,EST-21
+K9-BD-01,Bulldog,EST-6
+K9-BD-01,Bulldog,EST-7
+K9-PO-02,Poodle,EST-8
+K9-DL-01,Dalmation,EST-9
+K9-DL-01,Dalmation,EST-10
+K9-RT-01,Golden Retriever,EST-28
+K9-RT-02,Labrador Retriever,EST-22
+K9-RT-02,Labrador Retriever,EST-23
+K9-RT-02,Labrador Retriever,EST-24
+K9-RT-02,Labrador Retriever,EST-25
+K9-CW-01,Chihuahua,EST-26
+K9-CW-01,Chihuahua,EST-27
+RP-SN-01,Rattlesnake,EST-11
+RP-SN-01,Rattlesnake,EST-12
+RP-LI-02,Iguana,EST-13
+FL-DSH-01,Manx,EST-14
+FL-DSH-01,Manx,EST-15
+FL-DLH-02,Persian,EST-16
+FL-DLH-02,Persian,EST-17
+AV-CB-01,Amazon Parrot,EST-18
+AV-SB-02,Finch,EST-19

@@ -1,0 +1,73 @@
+[General]
+Type=Multi
+DefaultCfg=default.cfg
+ParameterFile=03_BuyReptiles.prm
+GlobalParameterFile=
+NewFunctionHeader=1
+RunType=cci
+ActionLogicExt=action_logic
+LastActiveAction=Action
+MajorVersion=2022
+MinorVersion=0
+ActiveTypes=QTWeb
+GenerateTypes=QTWeb
+AdditionalTypes=QTWeb
+DevelopTool=Vugen
+LastModifyVer=2022.0.0.0
+DFERebrandFlag=Done
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+LastCodeGenerationVer=2022.0.0.0
+DisableRegenerate=0
+Encoding=ANSI
+Description=
+ScriptLocale=en-US
+[Actions]
+vuser_init=vuser_init.c
+Action=Action.c
+vuser_end=vuser_end.c
+[RunLogicFiles]
+Default Profile=default.usp
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[Modified Actions]
+vuser_init=0
+Action=1
+vuser_end=0
+[Recorded Actions]
+vuser_init=0
+Action=1
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Interpreters]
+vuser_init=cci
+Action=cci
+vuser_end=cci
+[TransactionsOrder]
+Order="03_BuyReptiles_01_Launch__*delimiter*__03_BuyReptiles_02_ClickEnterTheStore__*delimiter*__03_BuyReptiles_03_ClickSignIn__*delimiter*__03_BuyReptiles_04_ClickLogin__*delimiter*__03_BuyReptiles_05_ClickPetReptiles__*delimiter*__03_BuyReptiles_06_SelectPetProduct__*delimiter*__03_BuyReptiles_07_AddToCartPetitem__*delimiter*__03_BuyReptiles_08_updateRandomQuantityAndUpdateCart__*delimiter*__03_BuyReptiles_09_ClickProceedToCheckOut__*delimiter*__03_BuyReptiles_10_EnterPaymentAndContinue__*delimiter*__03_BuyReptiles_11_ConfirmOrder__*delimiter*__03_BuyReptiles_12_ClickSignout"
+[StateManagement]
+LastReplayStatus=1
+[ActiveReplay]
+LastReplayedRunName=result1
+ActiveRunName=result1
+[Transactions]
+03_BuyReptiles_01_Launch=
+03_BuyReptiles_02_ClickEnterTheStore=
+03_BuyReptiles_03_ClickSignIn=
+03_BuyReptiles_04_ClickLogin=
+03_BuyReptiles_05_ClickPetReptiles=
+03_BuyReptiles_06_SelectPetProduct=
+03_BuyReptiles_07_AddToCartPetitem=
+03_BuyReptiles_08_updateRandomQuantityAndUpdateCart=
+03_BuyReptiles_09_ClickProceedToCheckOut=
+03_BuyReptiles_10_EnterPaymentAndContinue=
+03_BuyReptiles_11_ConfirmOrder=
+03_BuyReptiles_12_ClickSignout=

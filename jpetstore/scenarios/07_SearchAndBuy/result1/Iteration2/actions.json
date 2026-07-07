@@ -1,0 +1,92 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "07_SearchAndBuy_01_Launch",
+                "rawStartTime": 1782817145470,
+                "rawEndTime": 1782817146514,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0013582706451416016
+            },
+            {
+                "transactionName": "07_SearchAndBuy_02_EnterTheStore",
+                "rawStartTime": 1782817150601,
+                "rawEndTime": 1782817151285,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00040531158447265625
+            },
+            {
+                "transactionName": "07_SearchAndBuy_03_ClickSignIn",
+                "rawStartTime": 1782817155381,
+                "rawEndTime": 1782817155586,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00006985664367675781
+            },
+            {
+                "transactionName": "07_SearchAndBuy_04_ClickLogin",
+                "rawStartTime": 1782817159670,
+                "rawEndTime": 1782817160184,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00006365776062011719
+            },
+            {
+                "transactionName": "07_SearchAndBuy_05_EnterProductInSearchBox",
+                "rawStartTime": 1782817164247,
+                "rawEndTime": 1782817164933,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00009322166442871094
+            },
+            {
+                "transactionName": "07_SearchAndBuy_06_SelectProductFromSearchResult",
+                "rawStartTime": 1782817169003,
+                "rawEndTime": 1782817169207,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000017404556274414063
+            },
+            {
+                "transactionName": "07_SearchAndBuy_07_AddPetitemToCart",
+                "rawStartTime": 1782817173300,
+                "rawEndTime": 1782817173518,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00006389617919921875
+            },
+            {
+                "transactionName": "07_SearchAndBuy_08_UpdateRandomQuantityAndUpdateCart",
+                "rawStartTime": 1782817177585,
+                "rawEndTime": 1782817177945,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000022172927856445313
+            },
+            {
+                "transactionName": "07_SearchAndBuy_09_ProceedToCheckout",
+                "rawStartTime": 1782817182186,
+                "rawEndTime": 1782817182405,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0003161430358886719
+            },
+            {
+                "transactionName": "07_SearchAndBuy_10_EnterPaymentDetailsAndContinue",
+                "rawStartTime": 1782817186460,
+                "rawEndTime": 1782817186850,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000019073486328125
+            },
+            {
+                "transactionName": "07_SearchAndBuy_11_ConfirmTheOrder",
+                "rawStartTime": 1782817190920,
+                "rawEndTime": 1782817191137,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000025987625122070313
+            },
+            {
+                "transactionName": "07_SearchAndBuy_12_SignOut",
+                "rawStartTime": 1782817195205,
+                "rawEndTime": 1782817195566,
+                "thinkTime": 0.0,
+                "wastedTime": 0.000028371810913085938
+            }
+        ]
+    }
+]
